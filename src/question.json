@@ -1,0 +1,53 @@
+[
+    {
+        "id":1,
+        "question": "When setState()  is called inside render() method, which of the following events takes place?",
+        "options": ["duplicate key error","nothing happens","stackoverflow error","repetitve output happiness on the screen"],
+        "correctOption": "Paris"
+    },{
+        "id":2,
+        "question": "State whether true or false: React.js covers only the view layer of the app.",
+        "options": ["True","False"],
+        "correctOption": "True"
+    },{
+        "id":3,
+        "question": "The function which is called to render HTML to a web page in react?.",
+        "options": ["render()","ReactDOM_render()","render_DOM()","DOM_HTML()"],
+        "correctOption": "render()"
+    },{
+        "id":4,
+        "question": "Total ways of defining variables in ES6 is?",
+        "options": ["1","2","3","4"],
+        "correctOption": "3"
+    },{
+        "id":5,
+        "question": "Using which of the following command can prevent default behaviour at in react?",
+        "options":  ["preventDefault()","avoidDefault()","revokeDefault()","None of the above"],
+        "correctOption": "PreventDefault()"
+    },{
+        "id":6,
+        "question": "What are arbitrary inputs of components in react also known as?",
+        "options": ["Elements","Props","keys","Ref"],
+        "correctOption": "Props"
+    },{
+        "id":7,
+        "question": "What happens if you render an input element with disabled = {false}?",
+        "options": ["it will be rendered as enabled","it will be rendered as disabled","it will not be rendered at  all","None of the above"],
+        "correctOption": "it will be rendered as enabled"
+    },{
+        "id":8,
+        "question": "What is Babel?",
+        "options": ["JavaScript compiler","JavaScript interpreter","JavaScript transpiller","None of the above"],
+        "correctOption": "JavaScript compiler"
+    },{
+        "id":9,
+        "question": "What is React.JS mainly used for building?",
+        "options": ["Database","connectivity","user interface","Design platform"],
+        "correctOption": "user interface"
+    },{
+        "id":10,
+        "question": "What is ReactJS?",
+        "options": ["Server-side framework","user interface framework","both a and b","None of the above"],
+        "correctOption": "user interface framework"
+    }
+]

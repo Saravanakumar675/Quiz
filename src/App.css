@@ -1,0 +1,86 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap");
+
+*{
+  margin: 0;
+  padding: 0;
+  font-family: "Open Sans",sans-serif;
+}
+
+body{
+  width: 200vh;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #333;;
+}
+
+.quiz-app{
+  
+  width: 1000px;
+  height: auto;
+  padding: 20px;
+  background-color: white;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+  border-radius: 4px;
+}
+
+.question-section{
+  text-align: center;
+}
+
+.question-section h2{
+  font-weight: 600;
+  margin: 10px 0px;
+}
+
+.question-section p{
+  font-weight: 500;
+}
+
+.options{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  margin-top: 20px;
+}
+
+button{
+  padding:10px 15px ;
+  border: none;
+  background-color: #3498db;
+  color: white;
+  cursor: pointer;
+  font-size: 16px;
+  border-radius: 30px;
+  transition: background-color 0.3s;
+}
+
+button:hover{
+  filter:brightness(1.2);
+}
+
+.timer{
+  margin-top: 20px;
+  font-size: 18px;
+  color: #555;
+}
+
+.timer span{
+  font-weight: 800;
+}
+
+.score-section{
+  text-align: center;
+}
+.score-section h2{
+  margin-bottom: 20px;
+  font-weight: 600;
+}
+.score-section button{
+  background-color: tomato;
+  margin-right: 10px;
+  
+  
+}
